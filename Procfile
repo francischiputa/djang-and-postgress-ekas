@@ -1,0 +1,1 @@
+web: gunicorn _Ekas.wsgi --log-file -
